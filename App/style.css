@@ -1,21 +1,21 @@
 #poster {
-  height: 230px;
-  width: 95%;
+  height: 250px;
+  width: 70%;
   max-height: 300px;
   max-width: 520px;
   margin: 0;
   padding: 0;
   transition: box-shadow .1s transform;
   color: #000;
-  background: linear-gradient(to bottom, #00c6fb, #005bea);
+  background: linear-gradient(to bottom, #00c6fb, #3df546);
   box-shadow: 0px 0px 810px #00c6fb;
   animation: glow 2s infinite alternate;
   background-size: cover;
   display: flex;
   flex-direction: column;
-  border: 5px;
+  border: 2px;
   border-radius: 6px;
-  border-color: #000000;
+  border-color: #00ff9d;
   border-style: solid ;
 }
 #poster:hover {
